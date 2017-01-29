@@ -58,3 +58,13 @@
   string s = "hello world";
   s.erase(1, 1); // 'ello world'
 ```
+
+### numbers
+
+`pow(a, b)`
+> return a^b
+
+```c++
+  #include <math.h>
+  pow(3, 3); // 27
+```
