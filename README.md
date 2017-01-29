@@ -43,6 +43,7 @@
 ```c++
   char a = 'A';
   tolower(a); // 'a'
+```
 
 ### strings
 
@@ -56,3 +57,4 @@
 ```c++
   string s = "hello world";
   s.erase(1, 1); // 'ello world'
+```
