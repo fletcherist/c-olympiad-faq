@@ -7,4 +7,10 @@
   string s = '42';
   int a = stoi(s);
 ```
-a — 42
+
+`char to int`:
+
+```c++
+  char a = '5';
+  int b = a - '0';
+```
