@@ -43,3 +43,16 @@
 ```c++
   char a = 'A';
   tolower(a); // 'a'
+
+### strings
+
+`erase(a, b)` - remove characters from string
+
+**a** start with
+
+**b** how many characters to erase
+
+
+```c++
+  string s = "hello world";
+  s.erase(1, 1); // 'ello world'
