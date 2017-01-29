@@ -17,29 +17,29 @@
 
 ### characters
 
-`islower` - tests whether char is in lower case
+`islower()` - tests whether char is in lower case
 
 ```c++
   char a = 'b';
   islower(a) // true;
 ```
 
-`isupper` - tests whether char is in upper case
+`isupper()` - tests whether char is in upper case
 
 ```c++
   char a = 'b';
   isupper(a) // true;
 ```
 
-`toupper` - 'a' to 'A' uppercase
+`toupper()` - 'a' to 'A' uppercase
 
 ```c++
   char a = 'a';
   toupper(a); // 'A'
 ```
 
-`tolower` - 'A' to 'a' lowercase
+`tolower()` - 'A' to 'a' lowercase
 
-```c+++
+```c++
   char a = 'A';
   tolower(a); // 'a'
