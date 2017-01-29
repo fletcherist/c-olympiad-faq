@@ -21,14 +21,14 @@
 
 ```c++
   char a = 'b';
-  islower(a) // true;
+  islower(a); // true
 ```
 
 `isupper()` - tests whether char is in upper case
 
 ```c++
   char a = 'b';
-  isupper(a) // true;
+  isupper(a); // true
 ```
 
 `toupper()` - 'a' to 'A' uppercase
